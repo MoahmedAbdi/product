@@ -16,7 +16,7 @@
 
 
 
-</script>
+
 
 var facilitators, color;
 function getNumberOrString(value) {
@@ -66,5 +66,5 @@ document.getElementById(“show-all”).addEventListener(“click”, () => {
     element_list_of_facilitators.appendChild(new_li);
   });
 });
-
+</script>
 </html>
