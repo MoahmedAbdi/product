@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <input id=“input” placeholder=“Add the name of an item” style=“width:190px”></input>
 <br><br>
