@@ -8,5 +8,6 @@
 <br><br>
 <button id=“show-all”>Show All Items</button>
 <ul id=“list-of-items”><ul>
+<script src="script.js"></cript>
 
 </html>
